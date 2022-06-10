@@ -1,4 +1,3 @@
-accrual
 aggregation
 album
 analects
@@ -23,14 +22,12 @@ cumulation
 digest
 everything
 flight
-florilegium
 garland
 gathering
 group
 gumbo
 heap
 herd
-hoard
 jumble
 kaleidoscope
 kit
@@ -41,7 +38,6 @@ medley
 melange
 menu
 mine
-miscellany
 mishmash
 mix
 nest
@@ -58,13 +54,10 @@ reservoir
 roll
 selection
 set
-shrewdness
-spicilege
 stack
 stockpile
 store
 supply
-treasure
 treasury
 troupe
 variety
