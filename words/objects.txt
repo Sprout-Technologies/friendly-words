@@ -1,7 +1,6 @@
 aardvark
 aardwolf
 abacus
-abrosaurus
 abstract
 acai
 acapella
@@ -17,14 +16,12 @@ action
 activity
 actress
 adapter
-adasaurus
 addition
 address
 adjustment
 advantage
 adverb
 aerosteon
-afrovenator
 aftermath
 afternoon
 aftershave
@@ -43,21 +40,16 @@ airplane
 airport
 airship
 akubra
-alamosaurus
 alarm
 albacore
 albatross
-albertonykus
-albertosaurus
 alder
-aletopelta
 alfalfa
 algebra
 alibi
 alley
 alligator
 allium
-allosaurus
 alloy
 allspice
 almanac
@@ -72,8 +64,6 @@ alyssum
 amaranthus
 amaryllis
 amazonsaurus
-ambert
-ambulance
 amethyst
 amount
 amp
@@ -81,16 +71,13 @@ ampersand
 amphibian
 amusement
 anaconda
-anatosaurus
 anchovy
 ancient
-andesaurus
 anemone
 angelfish
 anger
 angle
 anglerfish
-angolatitan
 angora
 animal
 animantarx
@@ -114,7 +101,6 @@ apatosaurus
 aphid
 apogee
 apology
-appalachiosaurus
 apparatus
 apparel
 appeal
@@ -129,9 +115,9 @@ aragon
 aragosaurus
 arch
 archaeology
-archaeopteryx
-archduchess
-archduke
+archaeoptery
+
+
 archeology
 archer
 area
@@ -140,14 +126,12 @@ argument
 aries
 aristosuchus
 arithmetic
-armadillo
 armchair
 army
 arrhinceratops
 arrow
 art
 arthropod
-artichoke
 article
 ash
 asiago
@@ -174,7 +158,10 @@ attraction
 august
 aura
 aurora
-auroraceratops
+
+
+
+
 author
 authority
 authorization
@@ -218,6 +205,7 @@ barbecue
 barber
 barberry
 bard
+
 barge
 baritone
 barn
@@ -272,7 +260,6 @@ behavior
 belief
 bell
 bellflower
-bellusaurus
 belt
 beluga
 bench
@@ -313,7 +300,6 @@ blossom
 blouse
 blue
 bluebell
-boa
 boar
 board
 boat
@@ -332,15 +318,11 @@ booklet
 boot
 booth
 border
-borogovia
 boron
-bosworth
 botany
 bottle
 bottom
-bougon
 bounce
-boursin
 bow
 bowl
 bowler
@@ -356,7 +338,6 @@ bramble
 branch
 brand
 brass
-brazil
 bread
 breadfruit
 break
@@ -372,7 +353,6 @@ broccoli
 brochure
 broker
 bromine
-brontomerus
 bronze
 brook
 broom
@@ -386,7 +366,6 @@ bubbler
 buckaroo
 bucket
 buckthorn
-buckthornpepperberry
 budget
 buffalo
 buffer
@@ -405,7 +384,6 @@ bus
 butter
 buttercup
 butterfly
-butterkase
 butternut
 button
 buzzard
@@ -417,13 +395,11 @@ cactus
 cadet
 cadmium
 cafe
-cairnsmore
 cake
 calcium
 calculator
 calendula
 calf
-calliandra
 camel
 camelotia
 camera
@@ -525,7 +501,6 @@ chanter
 character
 charger
 chartreuse
-chasmosaurus
 chatter
 chauffeur
 check
@@ -561,8 +536,6 @@ chopper
 chord
 christmas
 chronometer
-chrysanthemum
-chungkingosaurus
 church
 cicada
 cilantro
@@ -610,12 +583,10 @@ cobalt
 cobbler
 cobra
 cobweb
-cockatoo
 cockroach
 cocoa
 coconut
 cod
-coelurus
 coffee
 coil
 coin
@@ -645,7 +616,6 @@ conchoraptor
 concrete
 condition
 condor
-condorraptor
 cone
 coneflower
 confidence
@@ -664,10 +634,8 @@ copper
 copy
 coral
 cord
-coreopsis
 coriander
 cork
-corleggy
 cormorant
 corn
 cornet
@@ -677,7 +645,6 @@ cosmonaut
 cosmos
 cost
 cotija
-cotton
 couch
 cougar
 cough
@@ -747,9 +714,6 @@ cycle
 cyclone
 cylinder
 cymbal
-daemonosaurus
-daffodil
-dahlia
 damselfly
 dance
 dancer
@@ -766,7 +730,6 @@ date
 daughter
 dawn
 day
-dead
 deal
 debt
 decade
@@ -774,11 +737,9 @@ decimal
 decision
 dedication
 deer
-deerstalker
 degree
 delivery
 delphinium
-deltadromeus
 den
 denim
 dentist
@@ -794,7 +755,6 @@ device
 devourer
 dew
 dewberry
-diabloceratops
 diadem
 diagnostic
 diagram
@@ -802,12 +762,10 @@ diamond
 dianella
 diascia
 dibble
-dichondra
 dietician
 digestion
 digit
 dill
-dilophosaurus
 dime
 dimple
 dinghy
@@ -839,8 +797,6 @@ door
 dormouse
 double
 dove
-dracopelta
-dracorex
 dragon
 dragonfly
 dragonfruit
@@ -885,8 +841,6 @@ earthworm
 earwig
 ease
 echidna
-echinacea
-echinodon
 echium
 echo
 eclipse
@@ -897,7 +851,6 @@ editorial
 education
 eel
 effect
-efraasia
 egg
 eggnog
 eggplant
@@ -909,7 +862,6 @@ elf
 elk
 ellipse
 elm
-emmental
 emoji
 emperor
 empress
@@ -920,13 +872,11 @@ energy
 engine
 engineer
 english
-enigmosaurus
 enquiry
 enthusiasm
 entrance
 entree
 environment
-eocursor
 eoraptor
 epoch
 epoxy
@@ -936,12 +886,10 @@ era
 erigeron
 ermine
 error
-espadrille
 estimate
 ethernet
 eucalyptus
 euphonium
-eustoma
 evening
 event
 evergreen
@@ -961,7 +909,6 @@ fabrosaurus
 face
 fact
 factory
-fahrenheit
 failing
 falcon
 fall
@@ -974,7 +921,6 @@ farmer
 farmhouse
 fascinator
 fastball
-father
 faucet
 fear
 feast
@@ -989,7 +935,6 @@ fender
 fennel
 fenugreek
 fern
-fernleaf
 ferret
 ferry
 ferryboat
@@ -1056,7 +1001,6 @@ forger
 forgery
 fork
 form
-forsythia
 fortnight
 foundation
 fountain
@@ -1087,10 +1031,8 @@ front
 frost
 frown
 fruit
-fruitadens
 fuchsia
 fuel
-fukuiraptor
 function
 fur
 furniture
@@ -1099,8 +1041,6 @@ galaxy
 galette
 galleon
 galley
-galliform
-gallimimus
 gallium
 gallon
 gambler
@@ -1110,13 +1050,11 @@ garage
 garden
 gardenia
 gargoyle
-gargoyleosaurus
 garlic
 garment
 garnet
 gas
 gasoline
-gasosaurus
 gastonia
 gate
 gateway
@@ -1141,10 +1079,6 @@ ghost
 ghoul
 giant
 gibbon
-giganotosaurus
-gigantoraptor
-gigantspinosaurus
-gilmoreosaurus
 ginger
 giraffatitan
 giraffe
@@ -1159,12 +1093,10 @@ glider
 glitter
 globe
 globeflower
-glockenspiel
 glove
 glow
 glue
 goal
-gojirasaurus
 gold
 goldenrod
 goldfish
@@ -1184,7 +1116,6 @@ graffiti
 grain
 gram
 grandiflora
-grandparent
 grape
 grapple
 grass
@@ -1221,7 +1152,6 @@ gym
 gymnast
 hacksaw
 haddock
-hadrosaurus
 hail
 hair
 haircut
@@ -1247,11 +1177,8 @@ hare
 harmonica
 harmony
 harp
-harpymimus
 harrier
 hat
-haumea
-havarti
 hawk
 hawthorn
 haze
@@ -1271,7 +1198,6 @@ hedge
 hedgehog
 height
 helenium
-helicona
 helicopter
 heliotrope
 helium
@@ -1291,7 +1217,6 @@ hickory
 hide
 hill
 hip
-hippodraco
 hippopotamus
 hiss
 hisser
@@ -1308,7 +1233,6 @@ honeydew
 honeysuckle
 hoodie
 hoof
-hook
 hope
 horesradish
 hornet
@@ -1316,7 +1240,6 @@ horse
 hortensia
 hose
 hospital
-hosta
 hotel
 hound
 hour
@@ -1345,12 +1268,10 @@ hyena
 hygienic
 hyphen
 hyssop
-iberis
 ice
 iceberg
 icebreaker
 icecream
-icicle
 icon
 idea
 iguana
@@ -1420,7 +1341,6 @@ jumper
 jumpsuit
 juniper
 jupiter
-juravenator
 jury
 justice
 jute
@@ -1436,7 +1356,6 @@ keyboard
 kick
 kicker
 kidney
-kileskus
 kilogram
 kilometer
 king
@@ -1453,8 +1372,6 @@ knot
 knuckle
 koala
 koi
-kookaburra
-kosmoceratops
 krill
 krypton
 kryptops
@@ -1507,7 +1424,6 @@ leo
 leopard
 leopon
 leotard
-leptoceratops
 letter
 lettuce
 level
@@ -1587,7 +1503,6 @@ magic
 magician
 magnesium
 magnolia
-magnosaurus
 magpie
 mahogany
 maiasaura
@@ -1620,7 +1535,6 @@ manuscript
 manx
 map
 maple
-mapusaurus
 maraca
 marble
 march
@@ -1637,7 +1551,6 @@ marmot
 marquess
 marquis
 mars
-marscapone
 marshmallow
 marsupial
 marten
@@ -1661,11 +1574,8 @@ meat
 mechanic
 medallion
 medicine
-medusaceratops
 meerkat
 meeting
-megalosaurus
-megaraptor
 melody
 melon
 memory
@@ -1697,7 +1607,6 @@ mine
 minibus
 mink
 minnow
-minotaurasaurus
 mint
 minute
 mirror
@@ -1710,7 +1619,6 @@ moat
 mochi
 mockingbird
 modem
-mojoceratops
 molasses
 mole
 molecule
@@ -1750,7 +1658,6 @@ mozzarella
 muenster
 mulberry
 mule
-mum
 munchkin
 muscari
 muscle
@@ -1769,7 +1676,6 @@ nail
 name
 nannyberry
 napkin
-naranja
 narcissus
 narwhal
 nasturtium
@@ -1784,7 +1690,6 @@ neighbor
 neighborhood
 nemophila
 neon
-nephew
 neptune
 nerine
 nerve
@@ -1821,10 +1726,8 @@ number
 numeric
 nurse
 nut
-nutmeg
 nutria
 nylon
-nymphea
 oak
 oatmeal
 objective
@@ -1855,13 +1758,11 @@ opal
 open
 opera
 operation
-ophthalmologist
 opinion
 opossum
 opportunity
 option
 orange
-orangutan
 orbit
 orca
 orchestra
@@ -1875,7 +1776,6 @@ origin
 oriole
 ornament
 ostrich
-othnielia
 otter
 ounce
 outfit
@@ -1889,7 +1789,6 @@ owner
 ox
 oxygen
 oyster
-ozraraptor
 package
 packet
 paddleboat
@@ -1922,7 +1821,6 @@ paradox
 parakeet
 parallel
 parallelogram
-paranthodon
 parcel
 parent
 parenthesis
@@ -1962,16 +1860,12 @@ peanut
 pear
 pearl
 pecorino
-pedestrian
-pediatrician
-pegasus
 pelican
 pen
 penalty
 pencil
 pendulum
 penguin
-pentaceratops
 pentagon
 peony
 people
@@ -1984,7 +1878,6 @@ perigee
 period
 periodical
 peripheral
-periwinkle
 persimmon
 pet
 petalite
@@ -2221,7 +2114,6 @@ redcurrant
 referee
 reference
 region
-regnosaurus
 reindeer
 relation
 relative
@@ -2271,13 +2163,10 @@ rock
 rocket
 rodent
 roll
-romano
-rondeletia
 roof
 rook
 room
 rooster
-roquefort
 rose
 rosehip
 rosemary
@@ -2299,7 +2188,6 @@ safflower
 saffron
 saga
 sage
-sagittarius
 saguaro
 sail
 sailboat
@@ -2314,8 +2202,6 @@ salmon
 salmonberry
 salsa
 salt
-saltasaurus
-saltopus
 salute
 samba
 sand
@@ -2323,9 +2209,6 @@ sandal
 sandalwood
 sandpaper
 sandwich
-santanaraptor
-sapphire
-sarahsaurus
 sardine
 sassafras
 satellite
@@ -2334,7 +2217,6 @@ saturday
 saturn
 saturnalia
 sauce
-sauroposeidon
 save
 saver
 savory
@@ -2353,7 +2235,6 @@ scarer
 scarf
 scene
 scent
-sceptre
 school
 schooner
 science
@@ -2387,7 +2268,6 @@ seed
 seeder
 seeker
 seer
-seismosaurus
 selenium
 sense
 september
@@ -2476,7 +2356,6 @@ slug
 smartphone
 smile
 smoke
-snagglefoot
 snail
 snake
 snap
@@ -2554,7 +2433,6 @@ spice
 spider
 spike
 spinach
-spinosaurus
 spirit
 splash
 spleen
@@ -2627,7 +2505,6 @@ string
 structure
 study
 sturgeon
-stygimoloch
 style
 subject
 submarine
@@ -2699,7 +2576,6 @@ tango
 tank
 tanker
 tarantula
-tarascosaurus
 target
 tarn
 tarp
@@ -2716,7 +2592,6 @@ teacher
 teal
 team
 technician
-technosaurus
 teeth
 telephone
 telescope
@@ -2755,7 +2630,6 @@ thrush
 thumb
 thunbergia
 thunder
-thursday
 thyme
 tibia
 tick
@@ -2774,7 +2648,6 @@ tin
 tip
 tire
 titanium
-titanoceratops
 titanosaurus
 tithonia
 title
@@ -2808,7 +2681,6 @@ trail
 train
 trampoline
 transport
-trapezoid
 travel
 traveler
 trawler
@@ -2821,11 +2693,8 @@ trick
 tricorne
 trigonometry
 trilby
-trillium
 trip
 trollius
-trombone
-troodon
 trouble
 trouser
 trowel
@@ -2872,9 +2741,6 @@ unicorn
 uniform
 universe
 uranium
-ursinia
-utahceratops
-utahraptor
 utensil
 vacation
 vacuum
@@ -2888,21 +2754,17 @@ variraptor
 vase
 vault
 vegetable
-vegetarian
 vehicle
 veil
 vein
-velociraptor
 velvet
 venom
 verbena
 verdict
-vermicelli
 verse
 vertebra
 vessel
 vest
-veterinarian
 vibraphone
 viburnum
 vicuna
@@ -2925,7 +2787,6 @@ volcano
 vole
 volleyball
 voyage
-vulcanodon
 vulture
 waiter
 waitress
@@ -2945,7 +2806,6 @@ waltz
 wander
 wanderer
 wandflower
-wannanosaurus
 war
 warbler
 warlock
@@ -2971,7 +2831,6 @@ wealth
 weather
 weaver
 web
-wedelia
 wedge
 wednesday
 weeder
@@ -3013,7 +2872,6 @@ wolf
 wolfberry
 wolfsbane
 wolverine
-wombat
 wood
 woodpecker
 woodwind
@@ -3029,9 +2887,7 @@ wrinkle
 wrist
 writer
 writing
-xenon
 xenoposeidon
-xylocarp
 xylophone
 yacht
 yak
@@ -3045,20 +2901,14 @@ yellowhorn
 yew
 yogurt
 yoke
-yttrium
 yumberry
 yuzu
 zebra
 zebu
 zenith
-zenobia
-zephyr
-ziconium
 zinc
-zinnia
 zipper
 zircon
 zone
 zoo
 zucchini
-zydeco
