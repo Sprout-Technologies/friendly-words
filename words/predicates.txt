@@ -12,7 +12,6 @@ absorbing
 abstracted
 abundance
 abundant
-abyssinian
 accessible
 accidental
 accurate
@@ -89,7 +88,6 @@ ballistic
 balsam
 band
 basalt
-battle
 bead
 beaded
 beautiful
@@ -611,10 +609,7 @@ humble
 humdrum
 humorous
 hungry
-hurricane
-hushed
 hyper
-hypnotic
 iced
 icy
 illustrious
@@ -805,7 +800,6 @@ mire
 mirror
 misty
 mixed
-mixolydian
 modern
 modest
 momentous
@@ -949,8 +943,6 @@ poised
 polar
 polarized
 polished
-polite
-political
 pollen
 polydactyl
 polyester
@@ -1447,4 +1439,3 @@ zesty
 zigzag
 zinc
 zippy
-zircon
