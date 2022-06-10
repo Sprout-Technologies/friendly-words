@@ -34,8 +34,6 @@ colony
 combination
 committee
 company
-conglomerate
-congregation
 congress
 conspiracy
 convocation
@@ -56,7 +54,6 @@ flight
 fling
 flock
 flush
-gaggle
 galaxy
 game
 gathering
@@ -76,8 +73,6 @@ league
 lease
 lineup
 litter
-murmuration
-mustering
 nest
 orchestra
 order
